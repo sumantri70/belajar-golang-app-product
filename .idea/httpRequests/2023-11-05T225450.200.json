@@ -1,0 +1,21 @@
+{
+  "code": 400,
+  "status": "BAD_REQUEST",
+  "errors": [
+    {
+      "field": "",
+      "message": "Key: 'CreateCategoryRequest.CategoryName' Error:Field validation for 'CategoryName' failed on the 'required' tag"
+    }
+  ],
+  "data": null
+}
+{
+  "code": 200,
+  "status": "OK",
+  "errors": null,
+  "data": {
+    "CategoryId": "",
+    "CategoryName": "",
+    "Description": ""
+  }
+}

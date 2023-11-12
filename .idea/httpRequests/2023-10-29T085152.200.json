@@ -1,0 +1,9 @@
+{
+  "Code": 200,
+  "Status": "OK",
+  "Data": {
+    "CategoryId": "d1701baa-92a0-419b-b2e3-c51a3392d48c",
+    "CategoryName": "request.CategoryName",
+    "Description": "request.Description"
+  }
+}

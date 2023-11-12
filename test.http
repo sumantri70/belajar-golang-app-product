@@ -1,0 +1,9 @@
+### Create new category
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+
+{
+  "categoryName" : "",
+  "description": "description"
+}

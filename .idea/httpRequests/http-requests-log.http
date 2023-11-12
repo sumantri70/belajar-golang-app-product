@@ -1,0 +1,452 @@
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 57
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "categoryName" : "",
+  "description": "description"
+}
+
+<> 2023-11-06T220145.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 57
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "categoryName" : "",
+  "description": "description"
+}
+
+<> 2023-11-06T220105.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 59
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "categoryName" : "33",
+  "description": "description"
+}
+
+<> 2023-11-06T220045.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 59
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Cookie: XDEBUG_SESSION=17947
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "categoryName" : "33",
+  "description": "description"
+}
+
+<> 2023-11-06T220022.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 59
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "categoryName" : "33",
+  "description": "description"
+}
+
+<> 2023-11-06T215241.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 59
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "categoryName" : "33",
+  "description": "description"
+}
+
+<> 2023-11-06T215221.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 57
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "categoryName" : "",
+  "description": "description"
+}
+
+<> 2023-11-06T083734.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 57
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "categoryName" : "",
+  "description": "description"
+}
+
+<> 2023-11-05T225527.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 57
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "categoryName" : "",
+  "description": "description"
+}
+
+<> 2023-11-05T225450.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 61
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "categoryName" : "Food",
+  "description": "description"
+}
+
+<> 2023-11-05T220844.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 61
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "categoryName" : "Food",
+  "description": "description"
+}
+
+<> 2023-10-29T215341.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 61
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "categoryName" : "Food",
+  "description": "description"
+}
+
+<> 2023-10-29T212848.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 61
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "categoryName" : "Food",
+  "description": "description"
+}
+
+<> 2023-10-29T085319.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 61
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "categoryName" : "Food",
+  "description": "description"
+}
+
+<> 2023-10-29T085152.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 61
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "categoryName" : "Food",
+  "description": "description"
+}
+
+<> 2023-10-29T085122.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 61
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "categoryName" : "Food",
+  "description": "description"
+}
+
+<> 2023-10-29T084901.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 61
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "categoryName" : "Food",
+  "description": "description"
+}
+
+<> 2023-10-29T084808.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 61
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "categoryName" : "Food",
+  "description": "description"
+}
+
+<> 2023-10-29T084716.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 61
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "categoryName" : "Food",
+  "description": "description"
+}
+
+<> 2023-10-29T083242.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 21
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name" : "Food"
+}
+
+<> 2023-10-15T112636.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 21
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name" : "Food"
+}
+
+<> 2023-10-15T112157.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 21
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name" : "Food"
+}
+
+<> 2023-10-15T112044.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 21
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name" : "Food"
+}
+
+<> 2023-10-15T111958.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 21
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name" : "Food"
+}
+
+<> 2023-10-15T111757.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 21
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name" : "Food"
+}
+
+<> 2023-10-15T111710.200.json
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 21
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name" : "Food"
+}
+
+<> 2023-10-15T111655.405.txt
+
+###
+
+POST http://localhost:7109/api/category
+Accept: application/json
+Content-Type: application/json
+Content-Length: 21
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name" : "Food"
+}
+
+<> 2023-10-15T111631.405.txt
+
+###
+

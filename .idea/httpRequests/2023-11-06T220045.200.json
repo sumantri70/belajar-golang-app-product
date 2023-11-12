@@ -1,0 +1,10 @@
+{
+  "code": 200,
+  "status": "OK",
+  "errors": null,
+  "data": {
+    "CategoryId": "4c4e233f-5716-496d-b203-9f72a85c3135",
+    "CategoryName": "33",
+    "Description": "description"
+  }
+}

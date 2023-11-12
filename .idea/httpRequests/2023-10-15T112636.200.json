@@ -1,0 +1,9 @@
+{
+  "Code": 200,
+  "Status": "OK",
+  "Data": {
+    "CategoryId": "1",
+    "CategoryName": "2",
+    "Description": "33"
+  }
+}
